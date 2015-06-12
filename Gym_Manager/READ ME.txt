@@ -1,0 +1,3 @@
+Use Qt5.4 to build
+Add Data and Image folder to root folder of built project.
+For more information contact me
